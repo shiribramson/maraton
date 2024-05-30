@@ -1,0 +1,13 @@
+.bg_container {
+    width : 1000px;  
+    height : 800px; 
+    background: #222a34;
+    border-radius: 20px;
+    position: relative;
+}
+
+.close-icon {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
